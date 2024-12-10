@@ -21,7 +21,7 @@ git hank test1
 git hank test2 ここを変更。
 git hank test3
 git hank test4
-git hank test5
+git hank test5 ここも変更。
 git hank test6
 git hank test7
 git hank test8
